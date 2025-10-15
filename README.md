@@ -8,8 +8,5 @@
 ### 安装教程
 https://3ep447gp4d.k.topthink.com/@9421839zpg/chengxujieshao.html
 ### 页面展示
-![图片素材/32.png](https://github.com/xiaolou888/ludashi/blob/main/%E5%9B%BE%E7%89%87%E7%B4%A0%E6%9D%90/32.png)
-![图片素材/33.png](https://github.com/xiaolou888/ludashi/blob/main/%E5%9B%BE%E7%89%87%E7%B4%A0%E6%9D%90/33.png)
-![图片素材/37.png](https://github.com/xiaolou888/ludashi/blob/main/%E5%9B%BE%E7%89%87%E7%B4%A0%E6%9D%90/37.png)
-![图片素材/39.png](https://github.com/xiaolou888/ludashi/blob/main/%E5%9B%BE%E7%89%87%E7%B4%A0%E6%9D%90/39.png)
-![图片素材/ban_c.jpg](https://github.com/xiaolou888/ludashi/blob/main/%E5%9B%BE%E7%89%87%E7%B4%A0%E6%9D%90/ban_c.jpg)
+![1.png](https://github.com/xiaolou888/qushuiyin-jianyi/blob/main/1.png)
+![2.png](https://github.com/xiaolou888/qushuiyin-jianyi/blob/main/2.png)
