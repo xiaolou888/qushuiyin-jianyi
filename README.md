@@ -19,7 +19,7 @@
 https://api.yuantoai.com/api/dsp/{clientSecretKey}/{clientId}/?url=
 ```
 - 把刚才复制的地址填写上去就行
-- 如果要官方原地址视频，可以在前面加上open. 地址就是这样的：
+- 如果要官方原地址视频，可以在前面加上open. 也就是第二个接口地址，地址就是这样的：
 ```
 https://open.api.yuantoai.com/api/dsp/{clientSecretKey}/{clientId}/?url=
 ```
