@@ -11,6 +11,6 @@
 - 登录后在接口查询页面可以找到接口地址
 - 最主要的是这个接口可以下载官方原地址视频，是的，官方原地址
 ![图片/api.png](https://github.com/xiaolou888/qushuiyin-jianyi/blob/main/图片/api.png)
-![图片/3.png](https://github.com/xiaolou888/qushuiyin-jianyi/blob/main/图片/3.png)
+![图片/3.png](https://github.com/xiaolou888/qushuiyin-jianyi/blob/main/%E5%9B%BE%E7%89%87/3.png)
 ### 使用教程
 https://3ep447gp4d.k.topthink.com/@9421839zpg/chengxujieshao.html
