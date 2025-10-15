@@ -6,9 +6,10 @@
 - 这个版本可以对接sora2去水印，直接对接接口就行，陆大湿的去水印接口目前没有发现sora2的接口，但是其他平台的可以使用他的接口
 - sora2去水印接口：https://api.yuantoai.com/
 - 登录后在接口查询页面可以找到接口地址
-![api.png](https://github.com/xiaolou888/qushuiyin-jianyi/blob/main/api.png)
+- 最主要的是这个接口可以下载官方原地址视频，是的，官方原地址
+![图片/api.png](https://github.com/xiaolou888/qushuiyin-jianyi/blob/main/图片/api.png)
 ### 安装教程
 https://3ep447gp4d.k.topthink.com/@9421839zpg/chengxujieshao.html
 ### 页面展示
-![1.png](https://github.com/xiaolou888/qushuiyin-jianyi/blob/main/1.png)
-![2.png](https://github.com/xiaolou888/qushuiyin-jianyi/blob/main/2.png)
+![图片/1.png](https://github.com/xiaolou888/qushuiyin-jianyi/blob/main/图片/1.png)
+![图片/2.png](https://github.com/xiaolou888/qushuiyin-jianyi/blob/main/图片/2.png)
