@@ -23,4 +23,4 @@ https://api.yuantoai.com/api/dsp/{clientSecretKey}/{clientId}/?url=
 ```
 https://open.api.yuantoai.com/api/dsp/{clientSecretKey}/{clientId}/?url=
 ```
-这样解析的地址就是官方原地址了
+这样解析的地址就是官方原地址视频了，这个网站厉害啊
